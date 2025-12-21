@@ -62,7 +62,7 @@ Actively auditing, while developing PoCs and independent case studies.
 
 ## 📈 Goals for 2026
 
-- 🕵🏽 Expand audit catalog with Cantina & Codehawks  
+- 🕵🏽 Expand audit catalog 
 - ✍🏽 Publish monthly write-ups on logic & math vulnerabilities  
 - 🧑🏽‍💻 Land a Web3 **Security Auditor / Smart Contract Engineer** role  
 - 🔬 Contribute to open-source audit tooling
