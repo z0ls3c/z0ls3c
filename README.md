@@ -55,8 +55,8 @@ Actively auditing, while developing PoCs and independent case studies.
 |--------|--------------------|
 | Security & Auditing | Foundry · Slither · Aderyn · Anvil · Echidna |
 | Languages | Solidity · TypeScript |
-| Analysis | Etherscan · Tenderly · Dune · Remix |
-| Documentation | Markdown · Obsidian · Mermaid Diagrams |
+| Analysis | Etherscan · Tenderly · Remix |
+| Documentation | Markdown · Obsidian |
 
 ---
 
