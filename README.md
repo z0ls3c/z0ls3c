@@ -4,7 +4,6 @@
 ![Foundry](https://img.shields.io/badge/Foundry-FC8C03?style=for-the-badge)
 ![Code4rena](https://img.shields.io/badge/Code4rena-181717?style=for-the-badge)
 ![Sherlock](https://img.shields.io/badge/Sherlock-003366?style=for-the-badge)
-![Cantina](https://img.shields.io/badge/Cantina-0A0A0A?style=for-the-badge)
 ![Etherscan](https://img.shields.io/badge/Etherscan-1C1C1C?style=for-the-badge)
 ![Security%20Research](https://img.shields.io/badge/Security_Research-0D1117?style=for-the-badge&logo=hackaday)
 
