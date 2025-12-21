@@ -30,8 +30,8 @@ Actively auditing, while developing PoCs and independent case studies.
 
 | Finding | Platform | Severity | Status | Link |
 |----------|-----------|-----------|--------|------|
-| Float128::toPackedFloat Fails to Promote to L Size When Exponent Is Critically Low | Code4rena – Forte | High | ✅ **Valid (Rewarded)** | [View Report](https://github.com/z0Ld3v/z0L-audits/blob/main/audit-contests/Code4rena/2025-04-forte-float128-solidity-library/finding1.md) |
-| Ln::ln() Fails to Validate Negative Inputs, Causing Division-by-Zero Panics | Code4rena – Forte | High | ✅ **Valid (Rewarded)** | [View Report](https://github.com/z0Ld3v/z0L-audits/blob/main/audit-contests/Code4rena/2025-04-forte-float128-solidity-library/finding2.md) |
+| `Float128::toPackedFloat` Fails to Promote to L Size When Exponent Is Critically Low | Code4rena – Forte | High | ✅ **Valid (Rewarded)** | [View Report](https://github.com/z0Ld3v/z0L-audits/blob/main/audit-contests/Code4rena/2025-04-forte-float128-solidity-library/finding1.md) |
+| `Ln::ln()` Fails to Validate Negative Inputs, Causing Division-by-Zero Panics | Code4rena – Forte | High | ✅ **Valid (Rewarded)** | [View Report](https://github.com/z0Ld3v/z0L-audits/blob/main/audit-contests/Code4rena/2025-04-forte-float128-solidity-library/finding2.md) |
 | Unauthorized Token Transfer via Insufficient Access Control | Sherlock – Crestal Network | Medium | ⚠️ **Valid (No Reward)** | [View Report](https://github.com/z0Ld3v/z0L-audits/blob/main/audit-contests/Sherlock/2025-03-crestal-network/unauthorized-token-transfer.md) |
 | Reward Manipulation in Referral Logic | Code4rena – Nudge | – | ❌ **Invalid (Intended Behavior)** | [View Report](https://github.com/z0Ld3v/z0L-audits/blob/main/practice-audits/false-positives/code4rena/2025-03-nudge/rewardmanipulation.md) |
 
