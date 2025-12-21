@@ -89,9 +89,9 @@ Every function should explain why it’s safe, not just assume it.
 
 ## 📬 Connect
 
-- **GitHub:** [@z0Ld3v](https://github.com/z0Ld3v)  
-- **LinkedIn:** [linkedin.com/in/your-profile](#) *(add when ready)*  
-- **Email:** z0L.dev@protonmail.com  
+- **GitHub:** [z0Ld3v](https://github.com/z0Ld3v)
+- **Twitter/X:** [@z0Ld3v](https://x.com/z0Ld3v)
+- **Email:** <a href="mailto:z0ld3v@proton.me">Proton</a>  
 - **Portfolio:** [z0L-audits](https://github.com/z0Ld3v/z0L-audits)
 
 ---
