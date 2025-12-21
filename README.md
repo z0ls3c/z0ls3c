@@ -40,12 +40,12 @@ Actively auditing, while developing PoCs and independent case studies.
 
 ## 🧠 Audit Workflow
 
-1. **Recon & Architecture Mapping** — Identify trust boundaries and actor roles  
-2. **Static Review** — Analyze state transitions and access modifiers  
-3. **Dynamic Testing** — Foundry fuzz + invariant testing, mainnet forks  
-4. **Exploit Simulation** — Model realistic attack paths  
-5. **Impact Analysis** — Evaluate severity, risk exposure, and cascading effects  
-6. **Reporting** — Clear PoC, rationale, mitigation, and lessons learned  
+1. **Recon & Architecture Mapping**: Identify trust boundaries and actor roles  
+2. **Static Review**: Analyze state transitions and access modifiers  
+3. **Dynamic Testing**: Foundry fuzz + invariant testing, mainnet forks  
+4. **Exploit Simulation**: Model realistic attack paths  
+5. **Impact Analysis**: Evaluate severity, risk exposure, and cascading effects  
+6. **Reporting**: Clear PoC, rationale, mitigation, and lessons learned  
 
 ---
 
