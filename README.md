@@ -61,7 +61,7 @@ Actively auditing, while developing PoCs and independent case studies.
 
 ---
 
-## 📈 Goals for 2025
+## 📈 Goals for 2026
 
 - 🕵🏽 Expand audit catalog with Cantina & Codehawks  
 - ✍🏽 Publish monthly write-ups on logic & math vulnerabilities  
