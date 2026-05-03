@@ -9,9 +9,7 @@
 
 ---
 
-I break and fix smart contracts.  
-Focused on **EVM security**, **Solidity analysis**, and **precision math in DeFi systems**.  
-Actively auditing, while developing PoCs and independent case studies.
+Aspiring smart contract auditor building DeFi security expertise through deep protocol analysis. Focused on EVM security, Solidity analysis, and precision math. 2 valid High findings on Code4rena. Currently: Day 21/90 of intensive audit preparation
 
 ---
 
@@ -22,6 +20,31 @@ Actively auditing, while developing PoCs and independent case studies.
 - ❌ **1 Invalid / Intended Behavior Report** — documented for learning transparency
 - 🧪 Foundry-based test + PoC workflow  
 - 🧰 Tools: Foundry · Slither · Aderyn · Anvil · Echidna · Remix · Etherscan
+
+---
+
+## 🎯 Current Focus (May 2026)
+
+**Week 1-3:** Deep-diving Uniswap V2 AMM security patterns  
+**Next:** Aave v2 lending mechanics & real exploit case studies  
+**Goal:** Audit-ready by July 2026 through systematic protocol analysis
+
+📊 Progress: Day 21/90 of comeback plan
+
+---
+
+## 🔬 Featured Work
+
+### Uniswap V2 Security Analysis
+Deep-dive into `swap()`, `mint()`, `burn()` with security pattern analysis and architecture diagrams.
+
+**Key insights:**
+- Lock modifier prevents reentrancy across all state changes
+- Balance-based calculations prevent spoofing attacks
+- `MINIMUM_LIQUIDITY` burn prevents donation attacks
+- K invariant ensures pool integrity
+
+[Read Full Analysis →](link)
 
 ---
 
@@ -62,10 +85,17 @@ Actively auditing, while developing PoCs and independent case studies.
 
 ## 📈 Goals for 2026
 
-- 🕵🏽 Expand audit catalog 
-- ✍🏽 Publish monthly write-ups on logic & math vulnerabilities  
-- 🧑🏽‍💻 Land a Web3 **Security Auditor / Smart Contract Engineer** role  
-- 🔬 Contribute to open-source audit tooling
+**By July 2026:**
+- ✅ Complete 10+ audit contest participations
+- ✅ Deep understanding of Uniswap V2, Aave v2, Curve
+- ✅ Study 3+ major DeFi exploits with working PoCs
+- ✅ 5+ valid findings across contests
+- ✅ Active Twitter presence sharing learnings
+
+**By December 2026:**
+- 🎯 Land junior auditor role or apprenticeship
+- 🎯 Published technical write-ups on AMM & lending security
+- 🎯 Contribute to open-source audit tooling
 
 ---
 
@@ -79,17 +109,10 @@ Every function should explain why it’s safe, not just assume it.
 
 ---
 
-## 📊 GitHub Stats
-
-![z0Ld3v's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0Ld3v&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z0Ld3v&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📬 Connect
 
-- **Twitter/X:** [@z0Ld3v](https://x.com/z0Ld3v)
-- **Email:** <a href="mailto:z0ld3v@proton.me">Proton</a>  
+- **Twitter/X:** [@z0Ls3c](https://x.com/z0Ls3c)
+- **Email:** <a href="mailto:z0ls3c@proton.me">Proton</a>  
 
 ---
 
