@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Z! Web3 Security Researcher & Smart Contract Auditor
+# 👋🏾 Hey, I'm Z! Web3 Security Researcher & Smart Contract Auditor
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-FC8C03?style=for-the-badge)
