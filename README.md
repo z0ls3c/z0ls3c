@@ -44,7 +44,7 @@ Deep-dive into `swap()`, `mint()`, `burn()` with security pattern analysis and a
 - `MINIMUM_LIQUIDITY` burn prevents donation attacks
 - K invariant ensures pool integrity
 
-[Read Full Analysis →](link)
+[Read Full Analysis →](https://github.com/z0ls3c/uniswap-v2-security-analysis)
 
 ---
 
