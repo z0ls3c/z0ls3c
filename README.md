@@ -42,7 +42,7 @@ Deep-dive into `swap()`, `mint()`, `burn()` with security pattern analysis and a
 - Lock modifier prevents reentrancy across all state changes
 - Balance-based calculations prevent spoofing attacks
 - `MINIMUM_LIQUIDITY` burn prevents donation attacks
-- K invariant ensures pool integrity
+- $\Large {k}$ invariant ensures pool integrity
 
 [Read Full Analysis →](https://github.com/z0ls3c/uniswap-v2-security-analysis)
 
