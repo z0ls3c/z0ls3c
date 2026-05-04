@@ -15,9 +15,9 @@ Aspiring smart contract auditor building DeFi security expertise through deep pr
 
 ## ⚡ Highlights
 
-- 🧩 **2 High-Severity Valid Findings (Rewarded)** — Code4rena (Forte Float128)
-- 🧱 **1 Valid Finding** — Sherlock (Crestal Network, duplicate)
-- ❌ **1 Invalid / Intended Behavior Report** — documented for learning transparency
+- 🧩 **2 High-Severity Valid Findings (Rewarded)** - Code4rena (Forte Float128)
+- 🧱 **1 Valid Finding** - Sherlock (Crestal Network, duplicate)
+- ❌ **1 Invalid / Intended Behavior Report** - documented for learning transparency
 - 🧪 Foundry-based test + PoC workflow  
 - 🧰 Tools: Foundry · Slither · Aderyn · Anvil · Echidna · Remix · Etherscan
 
