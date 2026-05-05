@@ -25,11 +25,14 @@ Aspiring smart contract auditor building DeFi security expertise through deep pr
 
 ## 🎯 Current Focus (May 2026)
 
-**Week 1-3:** Deep-diving Uniswap V2 AMM security patterns  
-**Next:** Aave v2 lending mechanics & real exploit case studies  
-**Goal:** Audit-ready by July 2026 through systematic protocol analysis
+**Protocol Deep-Dives:** Building security pattern recognition through line-by-line analysis
+- ✅ Uniswap V2 (AMM mechanics, K invariant, reentrancy patterns)
+- 🔄 Aave V3 (lending, liquidations, health factors)
+- 📋 Next: Compound, Curve, Lido
 
-📊 Progress: Day 21/90 of comeback plan
+**Contest Strategy:** Selective participation when protocols align with studied patterns
+
+📊 Progress: Day 21/90 of intensive preparation
 
 ---
 
@@ -45,6 +48,8 @@ Deep-dive into `swap()`, `mint()`, `burn()` with security pattern analysis and a
 - $\Large {k}$ invariant ensures pool integrity
 
 [Read Full Analysis →](https://github.com/z0ls3c/uniswap-v2-security-analysis)
+
+**Published:** [Twitter Thread](https://x.com/z0ls3c/status/2051265488072618026?s=20) | 790-line analysis
 
 ---
 
@@ -83,13 +88,34 @@ Deep-dive into `swap()`, `mint()`, `burn()` with security pattern analysis and a
 
 ---
 
+## 🗺️ Protocol Study Roadmap
+
+Building audit expertise through systematic protocol analysis:
+
+**Tier 1: Core DeFi Primitives (May - Oct 2026)**
+1. ✅ Uniswap V2 (Constant Product AMM)
+2. 🔄 Aave V3 (Lending & Liquidations)
+3. Compound V2 (Simpler Lending - Comparison Study)
+4. MakerDAO (CDP Mechanics & Oracles)
+5. Curve (StableSwap Invariant)
+6. Lido (Liquid Staking)
+
+**Tier 2: Advanced Patterns (2027)**
+- Uniswap V3/V4 (Concentrated Liquidity & Hooks)
+- GMX V2 (Perpetuals)
+- Synthetix (Derivatives)
+
+Each deep-dive includes: architecture diagrams, security pattern analysis, attack vectors, and Foundry PoCs.
+
+---
+
 ## 📈 Goals for 2026
 
 **By July 2026:**
-- ✅ Complete 10+ audit contest participations
-- ✅ Deep understanding of Uniswap V2, Aave v2, Curve
+
+- ✅ Deep-dive 6 core DeFi protocols (Uniswap, Aave, Compound, Maker, Curve, Lido)
+- ✅ Participate in 5+ high-quality audit contests (selective focus)
 - ✅ Study 3+ major DeFi exploits with working PoCs
-- ✅ 5+ valid findings across contests
 - ✅ Active Twitter presence sharing learnings
 
 **By December 2026:**
